@@ -5,6 +5,8 @@ Python script to sort .DAS save files by character
     * Running script after creating new save will add it to backup
     * Running script after deleting saves in game (or directly from game's save folder) will not delete it from backup
 
+Note: used Python 3.7.x, needs changes to work with 3.8.1
+
 
 ### External Libraries Used
 
